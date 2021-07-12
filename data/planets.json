@@ -24,7 +24,7 @@
     "biosphere": "Barren",
     "territories": 32672,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "201 - 813",
       "Carbon": "57 - 930",
@@ -59,7 +59,7 @@
     "biosphere": "Forest",
     "territories": 259472,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "64 - 330",
       "Carbon": "18 - 293",
@@ -95,7 +95,7 @@
     "biosphere": "Desert",
     "territories": 60752,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "21 - 367",
       "Carbon": "88 - 433",
@@ -130,7 +130,7 @@
     "biosphere": "Barren",
     "territories": 52922,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "122 - 192",
       "Carbon": "131 - 182",
@@ -166,7 +166,7 @@
     "biosphere": "Barren",
     "territories": 58082,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "83 - 161",
       "Carbon": "72 - 235",
@@ -202,7 +202,7 @@
     "biosphere": "Desert",
     "territories": 41072,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "122 - 338",
       "Carbon": "139 - 420",
@@ -238,7 +238,7 @@
     "biosphere": "Desert",
     "territories": 48002,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "67 - 965",
       "Carbon": "213 - 663",
@@ -274,7 +274,7 @@
     "biosphere": "Forest",
     "territories": 60752,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "82 - 205",
       "Carbon": "128 - 200",
@@ -311,7 +311,7 @@
     "biosphere": "Water",
     "territories": 63482,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "67 - 120",
       "Carbon": "52 - 115",
@@ -349,7 +349,7 @@
     "biosphere": "Ice",
     "territories": 52922,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "98 - 308",
       "Carbon": "48 - 341",
@@ -386,7 +386,7 @@
     "biosphere": "Ice,Desert",
     "territories": 38882,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "37 - 505",
       "Carbon": "74 - 547",
@@ -423,7 +423,7 @@
     "biosphere": "Ice",
     "territories": 32672,
     "territories_claimed": 0,
-    "terra_nullius": 0.00,
+    "terra_nullius": 0,
     "ore": {
       "Sodium": "277 - 872",
       "Carbon": "116 - 922",

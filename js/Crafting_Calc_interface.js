@@ -786,7 +786,6 @@ window.onclick = function(event) {
     hideItemsModal();
     hideSkillsModal();
 	hideProfileModal();
-	hideLangModal();
 	hidePriceModal();
 	hideDataModal();
   }
@@ -837,15 +836,6 @@ function hidePriceModal(){
 // When the user clicks on <span> (x), close the modal
 priceModalClose.onclick = hidePriceModal;
 
-function displayLangModal(input){
-	langModal.style.display = "block";
-}
-function hideLangModal(){
-	langModal.style.display = "none";
-}
-// When the user clicks on <span> (x), close the modal
-langModalClose.onclick = hideLangModal;
-
 function displayDataModal(input){
 	dataModal.style.display = "block";
 }
@@ -854,9 +844,6 @@ function hideDataModal(){
 }
 // When the user clicks on <span> (x), close the modal
 dataModalClose.onclick = hideDataModal;
-
-
-
 
 priceButton.onclick=displayPriceModal;
 detailedCraftQueueButton.onclick=displayQueueModal;
@@ -903,22 +890,6 @@ var doTrans=function(){
 	calculate();
 	setupCallbacks();
 }
-
-
-langButton.onclick=displayLangModal;
-lb_english.onclick=function(){
-	language="english";
-	doTrans()
-};
-lb_german.onclick=function(){
-	language="german";
-	doTrans()
-};
-lb_french.onclick=function(){
-	language="french";
-	doTrans()
-};
-
 
 // updates the inv variable based on each number input
 function updateInv(event)
@@ -1502,15 +1473,6 @@ function tryRestoreState(profile) {
 			console.log("failed to load indsel");
 			industrySelection=oldIndSel;
 		}
-		
-		try{
-			languageChanges[state.language]();
-		}
-		catch(e){
-			console.log("failed to change languages");
-		}
-			
-		
 		
 	} catch (e) {
 		console.log('Could not restore the previous crafting calculator state.', e);

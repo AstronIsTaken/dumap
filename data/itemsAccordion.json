@@ -2,431 +2,431 @@
   {
     "name": "Consumables",
     "data": [
-		{
-			"name": "Ammo",
-			"data": [
-				{
-					"name": "Cannon Ammo",
-					"data": [
-						{
-							"name": "Extra-Small Cannon Ammo",
-							"data": [
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Cannon Agile Kinetic Ammo XS",
-										"Cannon Defense Kinetic Ammo XS",
-										"Cannon Heavy Kinetic Ammo XS",
-										"Cannon Kinetic Ammo XS",
-										"Cannon Precision Kinetic Ammo XS"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Cannon Agile Thermic Ammo XS",
-										"Cannon Defense Thermic Ammo XS",
-										"Cannon Heavy Thermic Ammo XS",
-										"Cannon Thermic Ammo XS",
-										"Cannon Precision Thermic Ammo XS"
-									]
-								}
-							]
-						},
-						{
-							"name": "Small Cannon Ammo",
-							"data": [
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Cannon Agile Kinetic Ammo S",
-										"Cannon Defense Kinetic Ammo S",
-										"Cannon Heavy Kinetic Ammo S",
-										"Cannon Kinetic Ammo S",
-										"Cannon Precision Kinetic Ammo S"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Cannon Agile Thermic Ammo S",
-										"Cannon Defense Thermic Ammo S",
-										"Cannon Heavy Thermic Ammo S",
-										"Cannon Thermic Ammo S",
-										"Cannon Precision Thermic Ammo S"
-									]
-								}
-							]
-						},
-						{
-							"name": "Medium Cannon Ammo",
-							"data": [
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Cannon Agile Kinetic Ammo M",
-										"Cannon Defense Kinetic Ammo M",
-										"Cannon Heavy Kinetic Ammo M",
-										"Cannon Kinetic Ammo M",
-										"Cannon Precision Kinetic Ammo M"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Cannon Agile Thermic Ammo M",
-										"Cannon Defense Thermic Ammo M",
-										"Cannon Heavy Thermic Ammo M",
-										"Cannon Thermic Ammo M",
-										"Cannon Precision Thermic Ammo M"
-									]
-								}
-							]
-						},
-						{
-							"name": "Large Cannon Ammo",
-							"data": [
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Cannon Agile Kinetic Ammo L",
-										"Cannon Defense Kinetic Ammo L",
-										"Cannon Heavy Kinetic Ammo L",
-										"Cannon Kinetic Ammo L",
-										"Cannon Precision Kinetic Ammo L"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Cannon Agile Thermic Ammo L",
-										"Cannon Defense Thermic Ammo L",
-										"Cannon Heavy Thermic Ammo L",
-										"Cannon Thermic Ammo L",
-										"Cannon Precision Thermic Ammo L"
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Laser Ammo",
-					"data": [
-						{
-							"name": "Extra-Small Laser Ammo",
-							"data": [
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Laser Agile Electromagnetic Ammo XS",
-										"Laser Defense Electromagnetic Ammo XS",
-										"Laser Heavy Electromagnetic Ammo XS",
-										"Laser Electromagnetic Ammo XS",
-										"Laser Precision Electromagnetic Ammo XS"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Laser Agile Thermic Ammo XS",
-										"Laser Defense Thermic Ammo XS",
-										"Laser Heavy Thermic Ammo XS",
-										"Laser Thermic Ammo XS",
-										"Laser Precision Thermic Ammo XS"
-									]
-								}
-							]
-						},
-						{
-							"name": "Small Laser Ammo",
-							"data": [
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Laser Agile Electromagnetic Ammo S",
-										"Laser Defense Electromagnetic Ammo S",
-										"Laser Heavy Electromagnetic Ammo S",
-										"Laser Electromagnetic Ammo S",
-										"Laser Precision Electromagnetic Ammo S"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Laser Agile Thermic Ammo S",
-										"Laser Defense Thermic Ammo S",
-										"Laser Heavy Thermic Ammo S",
-										"Laser Thermic Ammo S",
-										"Laser Precision Thermic Ammo S"
-									]
-								}
-							]
-						},
-						{
-							"name": "Medium Laser Ammo",
-							"data": [
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Laser Agile Electromagnetic Ammo M",
-										"Laser Defense Electromagnetic Ammo M",
-										"Laser Heavy Electromagnetic Ammo M",
-										"Laser Electromagnetic Ammo M",
-										"Laser Precision Electromagnetic Ammo M"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Laser Agile Thermic Ammo M",
-										"Laser Defense Thermic Ammo M",
-										"Laser Heavy Thermic Ammo M",
-										"Laser Thermic Ammo M",
-										"Laser Precision Thermic Ammo M"
-									]
-								}
-							]
-						},
-						{
-							"name": "Large Laser Ammo",
-							"data": [
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Laser Agile Electromagnetic Ammo L",
-										"Laser Defense Electromagnetic Ammo L",
-										"Laser Heavy Electromagnetic Ammo L",
-										"Laser Electromagnetic Ammo L",
-										"Laser Precision Electromagnetic Ammo L"
-									]
-								},
-								{
-									"name": "Thermic Ammo",
-									"data": [
-										"Laser Agile Thermic Ammo L",
-										"Laser Defense Thermic Ammo L",
-										"Laser Heavy Thermic Ammo L",
-										"Laser Thermic Ammo L",
-										"Laser Precision Thermic Ammo L"
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Missile Pod Ammo",
-					"data": [
-						{
-							"name": "Extra-Small Missile Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Missile Agile Antimatter Ammo XS",
-										"Missile Defense Antimatter Ammo XS",
-										"Missile Heavy Antimatter Ammo XS",
-										"Missile Antimatter Ammo XS",
-										"Missile Precision Antimatter Ammo XS"
-									]
-								},
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Missile Agile Kinetic Ammo XS",
-										"Missile Defense Kinetic Ammo XS",
-										"Missile Heavy Kinetic Ammo XS",
-										"Missile Kinetic Ammo XS",
-										"Missile Precision Kinetic Ammo XS"
-									]
-								}
-							]
-						},
-						{
-							"name": "Small Missile Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Missile Agile Antimatter Ammo S",
-										"Missile Defense Antimatter Ammo S",
-										"Missile Heavy Antimatter Ammo S",
-										"Missile Antimatter Ammo S",
-										"Missile Precision Antimatter Ammo S"
-									]
-								},
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Missile Agile Kinetic Ammo S",
-										"Missile Defense Kinetic Ammo S",
-										"Missile Heavy Kinetic Ammo S",
-										"Missile Kinetic Ammo S",
-										"Missile Precision Kinetic Ammo S"
-									]
-								}
-							]
-						},
-						{
-							"name": "Medium Missile Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Missile Agile Antimatter Ammo M",
-										"Missile Defense Antimatter Ammo M",
-										"Missile Heavy Antimatter Ammo M",
-										"Missile Antimatter Ammo M",
-										"Missile Precision Antimatter Ammo M"
-									]
-								},
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Missile Agile Kinetic Ammo M",
-										"Missile Defense Kinetic Ammo M",
-										"Missile Heavy Kinetic Ammo M",
-										"Missile Kinetic Ammo M",
-										"Missile Precision Kinetic Ammo M"
-									]
-								}
-							]
-						},
-						{
-							"name": "Large Missile Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Missile Agile Antimatter Ammo L",
-										"Missile Defense Antimatter Ammo L",
-										"Missile Heavy Antimatter Ammo L",
-										"Missile Antimatter Ammo L",
-										"Missile Precision Antimatter Ammo L"
-									]
-								},
-								{
-									"name": "Kinetic Ammo",
-									"data": [
-										"Missile Agile Kinetic Ammo L",
-										"Missile Defense Kinetic Ammo L",
-										"Missile Heavy Kinetic Ammo L",
-										"Missile Kinetic Ammo L",
-										"Missile Precision Kinetic Ammo L"
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Railgun Pod Ammo",
-					"data": [
-						{
-							"name": "Extra-Small Railgun Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Railgun Agile Antimatter Ammo XS",
-										"Railgun Defense Antimatter Ammo XS",
-										"Railgun Heavy Antimatter Ammo XS",
-										"Railgun Antimatter Ammo XS",
-										"Railgun Precision Antimatter Ammo XS"
-									]
-								},
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Railgun Agile Electromagnetic Ammo XS",
-										"Railgun Defense Electromagnetic Ammo XS",
-										"Railgun Heavy Electromagnetic Ammo XS",
-										"Railgun Electromagnetic Ammo XS",
-										"Railgun Precision Electromagnetic Ammo XS"
-									]
-								}
-							]
-						},
-						{
-							"name": "Small Railgun Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Railgun Agile Antimatter Ammo S",
-										"Railgun Defense Antimatter Ammo S",
-										"Railgun Heavy Antimatter Ammo S",
-										"Railgun Antimatter Ammo S",
-										"Railgun Precision Antimatter Ammo S"
-									]
-								},
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Railgun Agile Electromagnetic Ammo S",
-										"Railgun Defense Electromagnetic Ammo S",
-										"Railgun Heavy Electromagnetic Ammo S",
-										"Railgun Electromagnetic Ammo S",
-										"Railgun Precision Electromagnetic Ammo S"
-									]
-								}
-							]
-						},
-						{
-							"name": "Medium Railgun Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Railgun Agile Antimatter Ammo M",
-										"Railgun Defense Antimatter Ammo M",
-										"Railgun Heavy Antimatter Ammo M",
-										"Railgun Antimatter Ammo M",
-										"Railgun Precision Antimatter Ammo M"
-									]
-								},
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Railgun Agile Electromagnetic Ammo M",
-										"Railgun Defense Electromagnetic Ammo M",
-										"Railgun Heavy Electromagnetic Ammo M",
-										"Railgun Electromagnetic Ammo M",
-										"Railgun Precision Electromagnetic Ammo M"
-									]
-								}
-							]
-						},
-						{
-							"name": "Large Railgun Ammo",
-							"data": [
-								{
-									"name": "Antimatter Ammo",
-									"data": [
-										"Railgun Agile Antimatter Ammo L",
-										"Railgun Defense Antimatter Ammo L",
-										"Railgun Heavy Antimatter Ammo L",
-										"Railgun Antimatter Ammo L",
-										"Railgun Precision Antimatter Ammo L"
-									]
-								},
-								{
-									"name": "Electromagnetic Ammo",
-									"data": [
-										"Railgun Agile Electromagnetic Ammo L",
-										"Railgun Defense Electromagnetic Ammo L",
-										"Railgun Heavy Electromagnetic Ammo L",
-										"Railgun Electromagnetic Ammo L",
-										"Railgun Precision Electromagnetic Ammo L"
-									]
-								}
-							]
-						}
-					]
-				}
-			]
-		},
+      {
+        "name": "Ammo",
+        "data": [
+          {
+            "name": "Cannon Ammo",
+            "data": [
+              {
+                "name": "Extra-Small Cannon Ammo",
+                "data": [
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Cannon Agile Kinetic Ammo XS",
+                      "Cannon Defense Kinetic Ammo XS",
+                      "Cannon Heavy Kinetic Ammo XS",
+                      "Cannon Kinetic Ammo XS",
+                      "Cannon Precision Kinetic Ammo XS"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Cannon Agile Thermic Ammo XS",
+                      "Cannon Defense Thermic Ammo XS",
+                      "Cannon Heavy Thermic Ammo XS",
+                      "Cannon Thermic Ammo XS",
+                      "Cannon Precision Thermic Ammo XS"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Small Cannon Ammo",
+                "data": [
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Cannon Agile Kinetic Ammo S",
+                      "Cannon Defense Kinetic Ammo S",
+                      "Cannon Heavy Kinetic Ammo S",
+                      "Cannon Kinetic Ammo S",
+                      "Cannon Precision Kinetic Ammo S"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Cannon Agile Thermic Ammo S",
+                      "Cannon Defense Thermic Ammo S",
+                      "Cannon Heavy Thermic Ammo S",
+                      "Cannon Thermic Ammo S",
+                      "Cannon Precision Thermic Ammo S"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Medium Cannon Ammo",
+                "data": [
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Cannon Agile Kinetic Ammo M",
+                      "Cannon Defense Kinetic Ammo M",
+                      "Cannon Heavy Kinetic Ammo M",
+                      "Cannon Kinetic Ammo M",
+                      "Cannon Precision Kinetic Ammo M"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Cannon Agile Thermic Ammo M",
+                      "Cannon Defense Thermic Ammo M",
+                      "Cannon Heavy Thermic Ammo M",
+                      "Cannon Thermic Ammo M",
+                      "Cannon Precision Thermic Ammo M"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Large Cannon Ammo",
+                "data": [
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Cannon Agile Kinetic Ammo L",
+                      "Cannon Defense Kinetic Ammo L",
+                      "Cannon Heavy Kinetic Ammo L",
+                      "Cannon Kinetic Ammo L",
+                      "Cannon Precision Kinetic Ammo L"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Cannon Agile Thermic Ammo L",
+                      "Cannon Defense Thermic Ammo L",
+                      "Cannon Heavy Thermic Ammo L",
+                      "Cannon Thermic Ammo L",
+                      "Cannon Precision Thermic Ammo L"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Laser Ammo",
+            "data": [
+              {
+                "name": "Extra-Small Laser Ammo",
+                "data": [
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Laser Agile Electromagnetic Ammo XS",
+                      "Laser Defense Electromagnetic Ammo XS",
+                      "Laser Heavy Electromagnetic Ammo XS",
+                      "Laser Electromagnetic Ammo XS",
+                      "Laser Precision Electromagnetic Ammo XS"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Laser Agile Thermic Ammo XS",
+                      "Laser Defense Thermic Ammo XS",
+                      "Laser Heavy Thermic Ammo XS",
+                      "Laser Thermic Ammo XS",
+                      "Laser Precision Thermic Ammo XS"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Small Laser Ammo",
+                "data": [
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Laser Agile Electromagnetic Ammo S",
+                      "Laser Defense Electromagnetic Ammo S",
+                      "Laser Heavy Electromagnetic Ammo S",
+                      "Laser Electromagnetic Ammo S",
+                      "Laser Precision Electromagnetic Ammo S"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Laser Agile Thermic Ammo S",
+                      "Laser Defense Thermic Ammo S",
+                      "Laser Heavy Thermic Ammo S",
+                      "Laser Thermic Ammo S",
+                      "Laser Precision Thermic Ammo S"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Medium Laser Ammo",
+                "data": [
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Laser Agile Electromagnetic Ammo M",
+                      "Laser Defense Electromagnetic Ammo M",
+                      "Laser Heavy Electromagnetic Ammo M",
+                      "Laser Electromagnetic Ammo M",
+                      "Laser Precision Electromagnetic Ammo M"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Laser Agile Thermic Ammo M",
+                      "Laser Defense Thermic Ammo M",
+                      "Laser Heavy Thermic Ammo M",
+                      "Laser Thermic Ammo M",
+                      "Laser Precision Thermic Ammo M"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Large Laser Ammo",
+                "data": [
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Laser Agile Electromagnetic Ammo L",
+                      "Laser Defense Electromagnetic Ammo L",
+                      "Laser Heavy Electromagnetic Ammo L",
+                      "Laser Electromagnetic Ammo L",
+                      "Laser Precision Electromagnetic Ammo L"
+                    ]
+                  },
+                  {
+                    "name": "Thermic Ammo",
+                    "data": [
+                      "Laser Agile Thermic Ammo L",
+                      "Laser Defense Thermic Ammo L",
+                      "Laser Heavy Thermic Ammo L",
+                      "Laser Thermic Ammo L",
+                      "Laser Precision Thermic Ammo L"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Missile Pod Ammo",
+            "data": [
+              {
+                "name": "Extra-Small Missile Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Missile Agile Antimatter Ammo XS",
+                      "Missile Defense Antimatter Ammo XS",
+                      "Missile Heavy Antimatter Ammo XS",
+                      "Missile Antimatter Ammo XS",
+                      "Missile Precision Antimatter Ammo XS"
+                    ]
+                  },
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Missile Agile Kinetic Ammo XS",
+                      "Missile Defense Kinetic Ammo XS",
+                      "Missile Heavy Kinetic Ammo XS",
+                      "Missile Kinetic Ammo XS",
+                      "Missile Precision Kinetic Ammo XS"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Small Missile Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Missile Agile Antimatter Ammo S",
+                      "Missile Defense Antimatter Ammo S",
+                      "Missile Heavy Antimatter Ammo S",
+                      "Missile Antimatter Ammo S",
+                      "Missile Precision Antimatter Ammo S"
+                    ]
+                  },
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Missile Agile Kinetic Ammo S",
+                      "Missile Defense Kinetic Ammo S",
+                      "Missile Heavy Kinetic Ammo S",
+                      "Missile Kinetic Ammo S",
+                      "Missile Precision Kinetic Ammo S"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Medium Missile Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Missile Agile Antimatter Ammo M",
+                      "Missile Defense Antimatter Ammo M",
+                      "Missile Heavy Antimatter Ammo M",
+                      "Missile Antimatter Ammo M",
+                      "Missile Precision Antimatter Ammo M"
+                    ]
+                  },
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Missile Agile Kinetic Ammo M",
+                      "Missile Defense Kinetic Ammo M",
+                      "Missile Heavy Kinetic Ammo M",
+                      "Missile Kinetic Ammo M",
+                      "Missile Precision Kinetic Ammo M"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Large Missile Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Missile Agile Antimatter Ammo L",
+                      "Missile Defense Antimatter Ammo L",
+                      "Missile Heavy Antimatter Ammo L",
+                      "Missile Antimatter Ammo L",
+                      "Missile Precision Antimatter Ammo L"
+                    ]
+                  },
+                  {
+                    "name": "Kinetic Ammo",
+                    "data": [
+                      "Missile Agile Kinetic Ammo L",
+                      "Missile Defense Kinetic Ammo L",
+                      "Missile Heavy Kinetic Ammo L",
+                      "Missile Kinetic Ammo L",
+                      "Missile Precision Kinetic Ammo L"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Railgun Pod Ammo",
+            "data": [
+              {
+                "name": "Extra-Small Railgun Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Railgun Agile Antimatter Ammo XS",
+                      "Railgun Defense Antimatter Ammo XS",
+                      "Railgun Heavy Antimatter Ammo XS",
+                      "Railgun Antimatter Ammo XS",
+                      "Railgun Precision Antimatter Ammo XS"
+                    ]
+                  },
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Railgun Agile Electromagnetic Ammo XS",
+                      "Railgun Defense Electromagnetic Ammo XS",
+                      "Railgun Heavy Electromagnetic Ammo XS",
+                      "Railgun Electromagnetic Ammo XS",
+                      "Railgun Precision Electromagnetic Ammo XS"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Small Railgun Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Railgun Agile Antimatter Ammo S",
+                      "Railgun Defense Antimatter Ammo S",
+                      "Railgun Heavy Antimatter Ammo S",
+                      "Railgun Antimatter Ammo S",
+                      "Railgun Precision Antimatter Ammo S"
+                    ]
+                  },
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Railgun Agile Electromagnetic Ammo S",
+                      "Railgun Defense Electromagnetic Ammo S",
+                      "Railgun Heavy Electromagnetic Ammo S",
+                      "Railgun Electromagnetic Ammo S",
+                      "Railgun Precision Electromagnetic Ammo S"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Medium Railgun Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Railgun Agile Antimatter Ammo M",
+                      "Railgun Defense Antimatter Ammo M",
+                      "Railgun Heavy Antimatter Ammo M",
+                      "Railgun Antimatter Ammo M",
+                      "Railgun Precision Antimatter Ammo M"
+                    ]
+                  },
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Railgun Agile Electromagnetic Ammo M",
+                      "Railgun Defense Electromagnetic Ammo M",
+                      "Railgun Heavy Electromagnetic Ammo M",
+                      "Railgun Electromagnetic Ammo M",
+                      "Railgun Precision Electromagnetic Ammo M"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Large Railgun Ammo",
+                "data": [
+                  {
+                    "name": "Antimatter Ammo",
+                    "data": [
+                      "Railgun Agile Antimatter Ammo L",
+                      "Railgun Defense Antimatter Ammo L",
+                      "Railgun Heavy Antimatter Ammo L",
+                      "Railgun Antimatter Ammo L",
+                      "Railgun Precision Antimatter Ammo L"
+                    ]
+                  },
+                  {
+                    "name": "Electromagnetic Ammo",
+                    "data": [
+                      "Railgun Agile Electromagnetic Ammo L",
+                      "Railgun Defense Electromagnetic Ammo L",
+                      "Railgun Heavy Electromagnetic Ammo L",
+                      "Railgun Electromagnetic Ammo L",
+                      "Railgun Precision Electromagnetic Ammo L"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
       {
         "name": "Elements",
         "data": [
@@ -512,9 +512,9 @@
                       "Wooden Table L",
                       "Wooden Table M",
                       "Wooden Wardrobe",
-					  "Navigator Chair",
-					  "Office Chair",
-					  "Encampment Chair"
+                      "Navigator Chair",
+                      "Office Chair",
+                      "Encampment Chair"
                     ]
                   },
                   {
@@ -829,46 +829,46 @@
                   {
                     "name": "Atmospheric Engines",
                     "data": [
-						{
-							"name": "Atmospheric Engines XS",
-							"data": [
-							  "Atmospheric Engine XS",
-							  "Freight Atmospheric Engine XS",
-							  "Maneuver Atmospheric Engine XS",
-							  "Military Atmospheric Engine XS",
-							  "Safe Atmospheric Engine XS"
-							]
-						},
-						{
-							"name": "Atmospheric Engines S",
-							"data": [
-							  "Atmospheric Engine S",
-							  "Freight Atmospheric Engine S",
-							  "Maneuver Atmospheric Engine S",
-							  "Military Atmospheric Engine S",
-							  "Safe Atmospheric Engine S"
-							]
-						},
-						{
-							"name": "Atmospheric Engines M",
-							"data": [
-							  "Atmospheric Engine M",
-							  "Freight Atmospheric Engine M",
-							  "Maneuver Atmospheric Engine M",
-							  "Military Atmospheric Engine M",
-							  "Safe Atmospheric Engine M"
-							]
-						},
-						{
-							"name": "Atmospheric Engines L",
-							"data": [
-							  "Atmospheric Engine L",
-							  "Freight Atmospheric Engine L",
-							  "Maneuver Atmospheric Engine L",
-							  "Military Atmospheric Engine L",
-							  "Safe Atmospheric Engine L"
-							]
-						}
+                      {
+                        "name": "Atmospheric Engines XS",
+                        "data": [
+                          "Atmospheric Engine XS",
+                          "Freight Atmospheric Engine XS",
+                          "Maneuver Atmospheric Engine XS",
+                          "Military Atmospheric Engine XS",
+                          "Safe Atmospheric Engine XS"
+                        ]
+                      },
+                      {
+                        "name": "Atmospheric Engines S",
+                        "data": [
+                          "Atmospheric Engine S",
+                          "Freight Atmospheric Engine S",
+                          "Maneuver Atmospheric Engine S",
+                          "Military Atmospheric Engine S",
+                          "Safe Atmospheric Engine S"
+                        ]
+                      },
+                      {
+                        "name": "Atmospheric Engines M",
+                        "data": [
+                          "Atmospheric Engine M",
+                          "Freight Atmospheric Engine M",
+                          "Maneuver Atmospheric Engine M",
+                          "Military Atmospheric Engine M",
+                          "Safe Atmospheric Engine M"
+                        ]
+                      },
+                      {
+                        "name": "Atmospheric Engines L",
+                        "data": [
+                          "Atmospheric Engine L",
+                          "Freight Atmospheric Engine L",
+                          "Maneuver Atmospheric Engine L",
+                          "Military Atmospheric Engine L",
+                          "Safe Atmospheric Engine L"
+                        ]
+                      }
                     ]
                   },
                   {
@@ -899,56 +899,56 @@
                   {
                     "name": "Space Engines",
                     "data": [
-						{
-							"name": "Space Engines XS",
-							"data": [
-							  "Space Engine XS",
-							  "Freight Space Engine XS",
-							  "Maneuver Space Engine XS",
-							  "Military Space Engine XS",
-							  "Safe Space Engine XS"
-							]
-						},
-						{
-							"name": "Space Engines S",
-							"data": [
-							  "Space Engine S",
-							  "Freight Space Engine S",
-							  "Maneuver Space Engine S",
-							  "Military Space Engine S",
-							  "Safe Space Engine S"
-							]
-						},
-						{
-							"name": "Space Engines M",
-							"data": [
-							  "Space Engine M",
-							  "Freight Space Engine M",
-							  "Maneuver Space Engine M",
-							  "Military Space Engine M",
-							  "Safe Space Engine M"
-							]
-						},
-						{
-							"name": "Space Engines L",
-							"data": [
-							  "Space Engine L",
-							  "Freight Space Engine L",
-							  "Maneuver Space Engine L",
-							  "Military Space Engine L",
-							  "Safe Space Engine L"
-							]
-						},
-						{
-							"name": "Space Engines XL",
-							"data": [
-							  "Space Engine XL",
-							  "Freight Space Engine XL",
-							  "Maneuver Space Engine XL",
-							  "Military Space Engine XL",
-							  "Safe Space Engine XL"
-							]
-						}
+                      {
+                        "name": "Space Engines XS",
+                        "data": [
+                          "Space Engine XS",
+                          "Freight Space Engine XS",
+                          "Maneuver Space Engine XS",
+                          "Military Space Engine XS",
+                          "Safe Space Engine XS"
+                        ]
+                      },
+                      {
+                        "name": "Space Engines S",
+                        "data": [
+                          "Space Engine S",
+                          "Freight Space Engine S",
+                          "Maneuver Space Engine S",
+                          "Military Space Engine S",
+                          "Safe Space Engine S"
+                        ]
+                      },
+                      {
+                        "name": "Space Engines M",
+                        "data": [
+                          "Space Engine M",
+                          "Freight Space Engine M",
+                          "Maneuver Space Engine M",
+                          "Military Space Engine M",
+                          "Safe Space Engine M"
+                        ]
+                      },
+                      {
+                        "name": "Space Engines L",
+                        "data": [
+                          "Space Engine L",
+                          "Freight Space Engine L",
+                          "Maneuver Space Engine L",
+                          "Military Space Engine L",
+                          "Safe Space Engine L"
+                        ]
+                      },
+                      {
+                        "name": "Space Engines XL",
+                        "data": [
+                          "Space Engine XL",
+                          "Freight Space Engine XL",
+                          "Maneuver Space Engine XL",
+                          "Military Space Engine XL",
+                          "Safe Space Engine XL"
+                        ]
+                      }
                     ]
                   },
                   {
@@ -986,8 +986,8 @@
                       "Gate M",
                       "Expanded Gate L",
                       "Gate XL",
-					  "Hatch S",
-					  "Fuel Intake XS"
+                      "Hatch S",
+                      "Fuel Intake XS"
                     ]
                   },
                   {
@@ -1025,14 +1025,14 @@
                       "Transparent Screen S",
                       "Transparent Screen M",
                       "Transparent Screen L",
-					  "Sign XS",
-					  "Sign S",
-					  "Sign M",
-					  "Sign L",
-					  "Sign Vertical XS",
-					  "Sign Vertical M",
-					  "Sign Vertical L",
-					  "Sensors S"
+                      "Sign XS",
+                      "Sign S",
+                      "Sign M",
+                      "Sign L",
+                      "Sign Vertical XS",
+                      "Sign Vertical M",
+                      "Sign Vertical L",
+                      "Sensors S"
                     ]
                   }
                 ]
@@ -1099,7 +1099,7 @@
                       "Space Radar S",
                       "Space Radar M",
                       "Space Radar L",
-					  "Transponder"
+                      "Transponder"
                     ]
                   },
                   {
@@ -1113,88 +1113,87 @@
                   }
                 ]
               },
-			  {
-			    "name":"Virtual Projectors",
-				"data": [
-				  "Virtual Scaffolding Projector"
-				]
-			  },
-			  { 
-				"name": "Combat Elements",
-				"data": [
-				  {
-					"name": "Weapon Units",
-					"data": [
-						{
-							"name": "Cannons",
-							"data": [
-								"Cannon XS",
-								"Cannon S",
-								"Cannon M",
-								"Cannon L"
-							]
-						},
-						{
-							"name": "Lasers",
-							"data": [
-								"Laser XS",
-								"Laser S",
-								"Laser M",
-								"Laser L"
-							]
-						},
-						{
-							"name": "Missile Pods",
-							"data": [
-								"Missile XS",
-								"Missile S",
-								"Missile M",
-								"Missile L"
-							]
-						},
-						{
-							"name": "Railguns",
-							"data": [
-								"Railgun XS",
-								"Railgun S",
-								"Railgun M",
-								"Railgun L"
-							]
-						}
-					]
-				  },
-				  {
-					"name":"Gunner Seats",
-					"data":[
-					  "Gunner Module S",
-					  "Gunner Module M",
-					  "Gunner Module L"
-					  ]
-				  },
-				  "Repair Unit"
-				]
-			  },
-			  {
-				"name": "Surrogate VR Elements",
-				"data": [
-					"Surrogate Pod Station",
-					"Surrogate VR Station"
-					]
-			  },
-			  {
-				"name": "Warp Drives",
-				"data": [
-					"Warp Drive L"
-				]
-			  },
-			  {
-				"name": "Warp Beacons",
-				"data": [
-					"Warp Beacon XL"
-				]
-			  }
-			
-			]
+              {
+                "name": "Virtual Projectors",
+                "data": [
+                  "Virtual Scaffolding Projector"
+                ]
+              },
+              {
+                "name": "Combat Elements",
+                "data": [
+                  {
+                    "name": "Weapon Units",
+                    "data": [
+                      {
+                        "name": "Cannons",
+                        "data": [
+                          "Cannon XS",
+                          "Cannon S",
+                          "Cannon M",
+                          "Cannon L"
+                        ]
+                      },
+                      {
+                        "name": "Lasers",
+                        "data": [
+                          "Laser XS",
+                          "Laser S",
+                          "Laser M",
+                          "Laser L"
+                        ]
+                      },
+                      {
+                        "name": "Missile Pods",
+                        "data": [
+                          "Missile XS",
+                          "Missile S",
+                          "Missile M",
+                          "Missile L"
+                        ]
+                      },
+                      {
+                        "name": "Railguns",
+                        "data": [
+                          "Railgun XS",
+                          "Railgun S",
+                          "Railgun M",
+                          "Railgun L"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Gunner Seats",
+                    "data": [
+                      "Gunner Module S",
+                      "Gunner Module M",
+                      "Gunner Module L"
+                    ]
+                  },
+                  "Repair Unit"
+                ]
+              },
+              {
+                "name": "Surrogate VR Elements",
+                "data": [
+                  "Surrogate Pod Station",
+                  "Surrogate VR Station"
+                ]
+              },
+              {
+                "name": "Warp Drives",
+                "data": [
+                  "Warp Drive L"
+                ]
+              },
+              {
+                "name": "Warp Beacons",
+                "data": [
+                  "Warp Beacon XL"
+                ]
+              }
+            ]
           },
           {
             "name": "Planet Elements",
@@ -1230,8 +1229,8 @@
                     ]
                   }
                 ]
-			  },
-			  "Territory Unit"
+              },
+              "Territory Unit"
             ]
           }
         ]
@@ -1407,30 +1406,30 @@
       {
         "name": "Scraps",
         "data": [
-              "Aluminium Scrap",
-              "Calcium Scrap",
-              "Carbon Scrap",
-              "Chromium Scrap",
-              "Cobalt Scrap",
-              "Copper Scrap",
-              "Gold Scrap",
-              "Iron Scrap",
-              "Fluorine Scrap",
-              "Lithium Scrap",
-              "Nickel Scrap",
-              "Scandium Scrap",
-              "Silicon Scrap",
-              "Silver Scrap",
-              "Sodium Scrap",
-              "Sulfur Scrap"
+          "Aluminium Scrap",
+          "Calcium Scrap",
+          "Carbon Scrap",
+          "Chromium Scrap",
+          "Cobalt Scrap",
+          "Copper Scrap",
+          "Gold Scrap",
+          "Iron Scrap",
+          "Fluorine Scrap",
+          "Lithium Scrap",
+          "Nickel Scrap",
+          "Scandium Scrap",
+          "Silicon Scrap",
+          "Silver Scrap",
+          "Sodium Scrap",
+          "Sulfur Scrap"
         ]
       },
-	  {
-		"name": "Warp Cells",
-		"data": [
-			"Warp Cell"
-		]
-		}
+      {
+        "name": "Warp Cells",
+        "data": [
+          "Warp Cell"
+        ]
+      }
     ]
   },
   {
@@ -1439,155 +1438,155 @@
       {
         "name": "Complex Parts",
         "data": [
-		  {
-			"name": "Anti-Matter Capsules",
-			"data": [
-			  "Basic Anti-Matter Capsule",
-			  "Uncommon Anti-Matter Capsule",
-			  "Advanced Anti-Matter Capsule",
-			  "Rare Anti-Matter Capsule",
-			  "Exotic Anti-Matter Capsule"
-			]
-		  },
-		  {
-			"name": "Burners",
-			"data": [
-			  "Basic Burner",
-			  "Uncommon Burner",
-			  "Advanced Burner"
-			]
-		  },
-		  {
-			"name": "Electronics",
-			"data": [
-			  "Basic Electronics",
-			  "Uncommon Electronics",
-			  "Advanced Electronics",
-			  "Rare Electronics",
-			  "Exotic Electronics"
-			]
-		  },
-		  {
-			"name": "Explosive Modules",
-			"data": [
-			  "Basic Explosive Module",
-			  "Uncommon Explosive Module",
-			  "Advanced Explosive Module"
-			]
-		  },
-		  {
-			"name": "Hydraulics",
-			"data": [
-			  "Basic Hydraulics",
-			  "Uncommon Hydraulics",
-			  "Advanced Hydraulics"
-			]
-		  },
-		  {
-			"name": "Injectors",
-			"data": [
-			  "Basic Injector",
-			  "Advanced Injector"
-			]
-		  },
-		  {
-			"name": "Magnets",
-			"data": [
-			  "Basic Magnet",
-			  "Uncommon Magnet",
-			  "Advanced Magnet",
-			  "Rare Magnet",
-			  "Exotic Magnet"
-			]
-		  },
-		  {
-			"name": "Optics",
-			"data": [
-			  "Basic Optics",
-			  "Uncommon Optics",
-			  "Advanced Optics",
-			  "Rare Optics"
-			]
-		  },
-		  {
-			"name": "Power Systems",
-			"data": [
-			  "Basic Power System",
-			  "Uncommon Power System",
-			  "Advanced Power System",
-			  "Rare Power System",
-			  "Exotic Power System"
-			]
-		  },
-		  {
-			"name": "Processors",
-			"data": [
-			  "Basic Processor",
-			  "Uncommon Processor",
-			  "Advanced Processor",
-			  "Exotic Processor"
-			]
-		  },
-		  {
-			"name": "Quantum Cores",
-			"data": [
-			  "Basic Quantum Core",
-			  "Uncommon Quantum Core",
-			  "Advanced Quantum Core",
-			  "Rare Quantum Core",
-			  "Exotic Quantum Core"
-			]
-		  },
-		  {
-			"name": "Singularity Containers",
-			"data": [
-			  "Basic Singularity Container",
-			  "Uncommon Singularity Container",
-			  "Advanced Singularity Container",
-			  "Rare Singularity Container",
-			  "Exotic Singularity Container"
-			]
-		  },
-		  {
-			"name": "Solid Warhead",
-			"data": [
-			  "Uncommon Solid Warhead",
-			  "Advanced Solid Warhead"
-			]
-		  }
+          {
+            "name": "Anti-Matter Capsules",
+            "data": [
+              "Basic Anti-Matter Capsule",
+              "Uncommon Anti-Matter Capsule",
+              "Advanced Anti-Matter Capsule",
+              "Rare Anti-Matter Capsule",
+              "Exotic Anti-Matter Capsule"
+            ]
+          },
+          {
+            "name": "Burners",
+            "data": [
+              "Basic Burner",
+              "Uncommon Burner",
+              "Advanced Burner"
+            ]
+          },
+          {
+            "name": "Electronics",
+            "data": [
+              "Basic Electronics",
+              "Uncommon Electronics",
+              "Advanced Electronics",
+              "Rare Electronics",
+              "Exotic Electronics"
+            ]
+          },
+          {
+            "name": "Explosive Modules",
+            "data": [
+              "Basic Explosive Module",
+              "Uncommon Explosive Module",
+              "Advanced Explosive Module"
+            ]
+          },
+          {
+            "name": "Hydraulics",
+            "data": [
+              "Basic Hydraulics",
+              "Uncommon Hydraulics",
+              "Advanced Hydraulics"
+            ]
+          },
+          {
+            "name": "Injectors",
+            "data": [
+              "Basic Injector",
+              "Advanced Injector"
+            ]
+          },
+          {
+            "name": "Magnets",
+            "data": [
+              "Basic Magnet",
+              "Uncommon Magnet",
+              "Advanced Magnet",
+              "Rare Magnet",
+              "Exotic Magnet"
+            ]
+          },
+          {
+            "name": "Optics",
+            "data": [
+              "Basic Optics",
+              "Uncommon Optics",
+              "Advanced Optics",
+              "Rare Optics"
+            ]
+          },
+          {
+            "name": "Power Systems",
+            "data": [
+              "Basic Power System",
+              "Uncommon Power System",
+              "Advanced Power System",
+              "Rare Power System",
+              "Exotic Power System"
+            ]
+          },
+          {
+            "name": "Processors",
+            "data": [
+              "Basic Processor",
+              "Uncommon Processor",
+              "Advanced Processor",
+              "Exotic Processor"
+            ]
+          },
+          {
+            "name": "Quantum Cores",
+            "data": [
+              "Basic Quantum Core",
+              "Uncommon Quantum Core",
+              "Advanced Quantum Core",
+              "Rare Quantum Core",
+              "Exotic Quantum Core"
+            ]
+          },
+          {
+            "name": "Singularity Containers",
+            "data": [
+              "Basic Singularity Container",
+              "Uncommon Singularity Container",
+              "Advanced Singularity Container",
+              "Rare Singularity Container",
+              "Exotic Singularity Container"
+            ]
+          },
+          {
+            "name": "Solid Warhead",
+            "data": [
+              "Uncommon Solid Warhead",
+              "Advanced Solid Warhead"
+            ]
+          }
         ]
       },
       {
         "name": "Exceptional Parts",
         "data": [
-		  {
-			"name": "Anti-Gravity Cores",
-			"data": [
-			  "Advanced Anti-Gravity Core",
-			  "Rare Anti-Gravity Core",
-			  "Exotic Anti-Gravity Core"
-			]
-		  },
-		  {
-			"name": "Anti-Matter Core Units",
-			"data": [
-			  "Advanced Anti-Matter Core Unit",
-			  "Exotic Anti-Matter Core Unit"
-			]
-		  },
-		  {
-			"name": "Quantum Alignment Units",
-			"data": [
-			  "Advanced Quantum Alignment Unit",
-			  "Exotic Quantum Alignment Unit"
-			]
-		  },
-		  {
-			"name": "Quantum Barriers",
-			"data": [
-			  "Advanced Quantum Barrier"
-			]
-		  }
+          {
+            "name": "Anti-Gravity Cores",
+            "data": [
+              "Advanced Anti-Gravity Core",
+              "Rare Anti-Gravity Core",
+              "Exotic Anti-Gravity Core"
+            ]
+          },
+          {
+            "name": "Anti-Matter Core Units",
+            "data": [
+              "Advanced Anti-Matter Core Unit",
+              "Exotic Anti-Matter Core Unit"
+            ]
+          },
+          {
+            "name": "Quantum Alignment Units",
+            "data": [
+              "Advanced Quantum Alignment Unit",
+              "Exotic Quantum Alignment Unit"
+            ]
+          },
+          {
+            "name": "Quantum Barriers",
+            "data": [
+              "Advanced Quantum Barrier"
+            ]
+          }
         ]
       },
       {
