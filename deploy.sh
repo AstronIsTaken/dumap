@@ -1,1 +1,1 @@
-./pack.sh -p &&  scp du-map.zip nightowl.cc:/var/www/html/dualsh/ && ssh nightowl.cc 'cd /var/www/html/dualsh/;unzip -o du-map.zip'
+./pack.sh && scp du-map.zip root@deusex.local:/mnt/user/appdata/nginx/www/ && ssh root@deusex.local 'cd /mnt/user/appdata/nginx/www/;unzip -o du-map.zip'
