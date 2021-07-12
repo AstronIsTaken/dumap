@@ -55,7 +55,7 @@ var tierNames=["Basic","Uncommon","Advanced","Rare","Exotic"];
 
 var itemsAccordion,skillsAccordion,industryPrices,prices,recipes,german,french;
 
-var ver = "2020-10-09"
+var ver = "2021-07-11"
 document.getElementById("version").innerHTML = ver;
 console.log("Crafing Calculator Version: " + ver)
 
@@ -66,11 +66,6 @@ loadJSON("../data/skillsAccordion.json",function(json){skillsAccordion=JSON.pars
 loadJSON("../data/industryTimePrices.json",function(json){industryPrices=JSON.parse(json);})
 loadJSON("../data/orePrices.json",function(json){prices=JSON.parse(json);})
 loadJSON("../data/recipes.json",function(json){recipes=json;})
-
-
-loadJSON("../data/craft_trans_german.json",function(json){german=json;})
-loadJSON("../data/craft_trans_french.json",function(json){french=json;})
-
 
 
 //console.log(JSON.stringify(skillsAccordion,null,2));
@@ -155,7 +150,6 @@ var skills=getSkills(skillsAccordion,"")
 //console.log(recipes);
 //console.log(typeof recipes);
 var cc=new recipeCalc(recipes);
-cc.addTrans({"german":JSON.parse(german),"french":JSON.parse(french)});
 //console.log(JSON.stringify(cc.db));
 
 var invListCols=invList.children.length;
